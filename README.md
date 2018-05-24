@@ -1,34 +1,29 @@
-# 🚀  javascript-starter-boilerplate
-A `javascript` boilerplate for generating new projects.
+# 🚀  javascript-bootcamp
+A `javascript` bootcamp for advance programminf with a javascript.
 
-
-This `javascript` boilerplate uses:
+This `javascript` bootcamp training repo uses:
 
 - [npm](https://www.npmjs.com/get-npm) - node package manager
 - [eslint](https://eslint.org/) - linter
 - [jest](https://facebook.github.io/jest/) - testing library
-- [scaffold-generator](https://github.com/kaelzhang/node-scaffold-generator) - new repo generator
+- [flow](https://github.com/facebook/flow) - static typing
 
 
-## scaffolding
-This package can be used as the base for a new `javascript` project.
+## Prerequisites
 
-```
-$ cd <javascript-starter-boilerplate>
-$ yarn install
+-   **Node** v8.9.1 or greater
 
-## configure...
-$ vi scaffold/config.js
+## Steps to use this project
 
-## generate new repo...
-$ babel-node scaffold
+### :1: Clone the project using the following command:
+
+```open the bash terminal
+git clone https://github.com/jabdul/javascript-bootcamp.git
 ```
 
-## create as git repo
-With the new project in place, intialise the project as a git repo:
+### :2: Install dependencies:
 
+```open the bash terminal:
+ -cd to the javascript-bootcamp directory
+ -type the command: ```npm install```
 ```
-$ cd <my-new-repo>
-```
-
-Follow the github instruction on [adding an existing project to github](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
