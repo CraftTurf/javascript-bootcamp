@@ -1,3 +1,4 @@
+// @flow
 import hello from './hello';
 
 describe('hello', () => {
