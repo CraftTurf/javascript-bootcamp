@@ -1,5 +1,5 @@
 # 🚀  javascript-bootcamp
-A `javascript` bootcamp for advance programminf with a javascript.
+A `javascript` bootcamp for advance programming with a javascript.
 
 This `javascript` bootcamp training repo uses:
 
@@ -13,17 +13,10 @@ This `javascript` bootcamp training repo uses:
 
 -   **Node** v8.9.1 or greater
 
-## Steps to use this project
+### Installation
 
-### :1: Clone the project using the following command:
-
-```open the bash terminal
-git clone https://github.com/jabdul/javascript-bootcamp.git
 ```
-
-### :2: Install dependencies:
-
-```open the bash terminal:
- -cd to the javascript-bootcamp directory
- -type the command: ```npm install```
+$ git clone https://github.com/jabdul/javascript-bootcamp.git
+$ cd <javascript-bootcamp>
+$ npm install
 ```
